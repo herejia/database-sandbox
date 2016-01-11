@@ -1,0 +1,17 @@
+{
+  "name": "database-sandbox",
+  "version": "1.0.0",
+  "description": "SQL database sandbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@herezia",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  },
+  "dependencies": {
+    "angular": "^1.4.8"
+  }
+}
